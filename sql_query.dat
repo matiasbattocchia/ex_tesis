@@ -1,0 +1,12 @@
+ select     
+       sub.galaxyid, image_face, image_edge, image_box    
+        
+    from     
+       eagle..RefL0100N1504_subhalo as sub,    
+       eagle..RefL0100N1504_aperture as aps    
+        
+    where     
+       (sub.galaxyid = aps.galaxyid)    
+       and (aps.aperturesize = 30)    
+       and (aps.mass_star > 1e10)    
+       and (sub.snapnum = 27)

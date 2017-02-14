@@ -1,0 +1,9 @@
+fits_face/
+catalogues/
+segmentation/
+gm20/
+IDLAstro/
+idl70linux.x86.tar.gz
+código/*.dat
+tablas/
+código/.ipynb_checkpoints/
