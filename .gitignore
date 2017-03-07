@@ -1,9 +1,11 @@
 fits_face/
 catalogues/
 segmentation/
+morfologías/
 gm20/
 IDLAstro/
-idl70linux.x86.tar.gz
+IDL/
 código/*.dat
-tablas/
+código/*.pro
 código/.ipynb_checkpoints/
+tablas/
