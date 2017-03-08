@@ -7,5 +7,6 @@ IDLAstro/
 IDL/
 código/*.dat
 código/*.pro
+código/*.morph
 código/.ipynb_checkpoints/
 tablas/
