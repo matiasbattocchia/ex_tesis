@@ -1,7 +1,3 @@
-fits_face/
-catalogues/
-segmentation/
-morfologías/
 gm20/
 IDLAstro/
 IDL/
@@ -9,4 +5,5 @@ código/*.dat
 código/*.pro
 código/*.morph
 código/.ipynb_checkpoints/
-tablas/
+illustris/
+eagle/
