@@ -1,4 +1,4 @@
-for file in *.fits*
+for file in *.fits
 do
-  mv "$file" "${file/new/r}"
+  mv "$file" "${file/.fits/.fits.reg}"
 done

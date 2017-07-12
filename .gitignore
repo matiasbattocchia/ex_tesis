@@ -2,8 +2,8 @@ gm20/
 IDLAstro/
 IDL/
 código/*.dat
-código/*.pro
-código/*.morph
-código/.ipynb_checkpoints/
+código/**/*.pro
+**/*.morph
+**/.ipynb_checkpoints
 illustris/
 eagle/
