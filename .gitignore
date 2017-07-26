@@ -6,4 +6,6 @@ código/**/*.pro
 **/*.morph
 **/.ipynb_checkpoints
 illustris/
+read_eagle/
+particle_data/
 eagle/
