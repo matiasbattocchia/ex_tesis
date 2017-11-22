@@ -9,3 +9,5 @@ illustris/
 read_eagle/
 particle_data/
 eagle/
+**/.hg
+**/__pycache__
